@@ -1,0 +1,50 @@
+Applications Using DoH (ADD)
+
+Description: Discussions at the DoG WG and a side meeting at IETF104 suggest
+there appears to be significant interest in examining in the operational
+aspects of DoH deployment, particularly in operator and enterprise networks.
+This lead to the creation of the ADD (Applications Doing DNS) mailing list
+where some of these issues have been discussed. The proposed BoF intends to
+establish if there are sufficient potential work items and enough interest at
+the IETF to justify the creation of a new Working Group which would focus on
+these topics.
+
+Status: Non-WG forming
+
+Responsible AD: Barry Leiba
+
+BoF Proponents: Alister Winfield <​Alister.Winfield@sky.uk> Andy Fidler
+<​andrew.fidler@bt.com> Glenn Deen <​Glenn.Deen@nbcuni.com> Jason Livingood
+<​​Jason_Livingood@comcast.com> Jim Reid <​jim@rfc1035.com> Nic Leymann
+<​N.Leymann@telekom.de> Vitorrio Bertola <​vittorio.bertola@open-xchange.com>
+
+BoF Chairs: (proposed: David Lawrence) AD(s) are considering whom to select
+
+Expected attendees: 150-200
+
+Length of session: 1.5 hours
+
+Conflicts to avoid: doh, dnsop, dprive, tls, httpbis
+
+Agenda:
+
+1. Agenda bashing (5 mins)
+        
+2. Discussion of how/where to progress draft-bertola-bcp-doh-clients,
+draft-dickinson-doh-dohpe, draft-livingood-doh-implementation-risks-issues,
+draft-reid-doh-operator & draft-sah-resinfo - NOT to discuss the documents!
+(20 mins)
+
+3. Review DoH deployment problem space and prioritise impact areas the new WG
+could focus on (30 mins)
+
+4. Discussion of draft charter (15 mins)
+
+5. Tentative work plan and potential milestones (15 mins)
+
+6. Minimising conflict or overlap with existing WGs (20 mins)
+
+7. Call for potential WG co-chairs and volunteers for likely work items (10
+mins)
+
+8. AOB (5 mins)
