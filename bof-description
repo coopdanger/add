@@ -1,6 +1,13 @@
 Applications Using DNS (ADD)
 
-Description: As deployment of new DNS transports such as DNS over HTTPS (DoH) and DNS over TLS (DoT) progresses and more kinds of applications do their own DNS resolution, there is increasing interest in operational implications and identifying potential further work that would benefit DNS operations and architecture across a variety of network environments. This BOF will seek to identify related work items where further protocol standardization, best practices, or guidance could be usefully documented via the IETF consensus process.
+Description: As deployment of new DNS transports such as DNS over HTTPS (DoH)
+and DNS over TLS (DoT) progresses and more kinds of applications do their own
+DNS resolution, there is increasing interest in operational implications and
+identifying potential further work that would benefit DNS operations and
+architecture across a variety of network environments. This BOF will seek to
+identify related work items where further protocol standardization, best
+practices, or guidance could be usefully documented via the IETF consensus
+process.
 
 Status: Non-WG forming
 
@@ -23,7 +30,8 @@ Agenda:
 
 1. Agenda bashing (5 mins)
         
-2. Brief overview of recent trends related to applications doing DNS resolution
+2. Brief overview of recent trends related to applications doing DNS
+resolution
 (10 mins)
 
 3. Potential areas for future protocol work, best practices, or guidance
